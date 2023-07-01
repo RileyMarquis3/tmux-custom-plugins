@@ -3,8 +3,9 @@ Custom Plugins For tmux plugin manager (TPM)
 
 <hr>
 <div id="Warning">
-  WARNING !!! These plugins are a Work In Progress (WIP) and considered highly expirimental. <br>
-  DO NOT USE ON ANY PRODUCTION SERVER OR SYSTEM !
+  <h3> :warning: This code is highly experimental and has NOT been fully implemented or tested yet. :warning: </h3>
+  <h4>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These plugins are a Work In Progress (WIP) and considered highly experimental. </h4>
+  <h4>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DO NOT USE ON ANY PRODUCTION SERVER OR SYSTEM ! </h4>
 </div>
 
 <hr>
